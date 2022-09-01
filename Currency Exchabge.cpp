@@ -27,8 +27,8 @@ int main()
         cin >>dollar;
         if(dollar > 0)
         {
-            U=dollar*79.55;
-            cout << dollar << " United State Dollar = " << U << " Indian Rupee "<< endl;
+            U=dollar*79.55;             // Calculation
+            cout << dollar << " United State Dollar = " << U << " Indian Rupee "<< endl;  // Show in the display
         }
         break;
 
